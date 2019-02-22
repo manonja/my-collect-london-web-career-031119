@@ -1,3 +1,6 @@
-def my_collect
+def my_collect(array)
+  #starts counter
+  counter = 0 
+  
 end
 
